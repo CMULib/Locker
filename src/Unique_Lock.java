@@ -1,6 +1,6 @@
 import java.io.File;
 
-public class Locking {
+public class Unique_Lock {
   public static int create() {
     String filePath = "lock";
     try {
